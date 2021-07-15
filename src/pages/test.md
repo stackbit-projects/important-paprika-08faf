@@ -18,6 +18,16 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
 seo:
   title: ''
   description: ''
